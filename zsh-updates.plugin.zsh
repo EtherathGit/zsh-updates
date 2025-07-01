@@ -1,4 +1,4 @@
-# sysupdate.plugin.zsh
+# zsh-updates.plugin.zsh
 
 # Helper for colored headers
 print_header() {
